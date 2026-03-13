@@ -4,5 +4,17 @@
     <title>Pegkits Updates</title>
     <description>Most recent updates for Pegkits</description>
     <language>en</language>
+    <item>
+      <title>Version 1.0</title>
+      <pubDate>Thu, 13 Mar 2026 17:02:00 +0700</pubDate>
+      <sparkle:version>20260313</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Nattothemoon/Pegkits-releases/releases/download/v1.0/Pegkits-1.0.dmg"
+        sparkle:edSignature="joYu8VaG/nsjqiB0UNQuCWVKfcaP2yx5chHbbvnIm25qzrhayypyqaLF1JvQUw+vbs2oIoOH7yI52/cpHL4BDQ=="
+        length="9601338"
+        type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
