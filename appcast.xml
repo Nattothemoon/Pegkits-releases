@@ -4,41 +4,5 @@
     <title>Pegkits Updates</title>
     <description>Most recent updates for Pegkits</description>
     <language>en</language>
-    <item>
-      <title>Version 1.0</title>
-      <pubDate>Thu, 13 Mar 2026 17:02:00 +0700</pubDate>
-      <sparkle:version>20260313</sparkle:version>
-      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/Nattothemoon/Pegkits-releases/releases/download/v1.0/Pegkits-1.0.dmg"
-        sparkle:edSignature="joYu8VaG/nsjqiB0UNQuCWVKfcaP2yx5chHbbvnIm25qzrhayypyqaLF1JvQUw+vbs2oIoOH7yI52/cpHL4BDQ=="
-        length="9601338"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 1.1</title>
-      <pubDate>Fri, 13 Mar 2026 17:40:42 +0700</pubDate>
-      <sparkle:version>202603131740</sparkle:version>
-      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/Nattothemoon/Pegkits-releases/releases/download/v1.1/Pegkits-1.1.dmg"
-        sparkle:edSignature="LgfYObkhtbnxmbsebs0Gkf1dRDYPpVS9sdhTAIAlJKM5PVrjd9qPohZ7Lf9eVBtBZkx5SNaQGNSlLF52i8SnDg=="
-        length="9607667"
-        type="application/octet-stream" />
-    </item>
-    <item>
-      <title>Version 1.2</title>
-      <pubDate>Fri, 13 Mar 2026 18:06:15 +0700</pubDate>
-      <sparkle:version>202603131805</sparkle:version>
-      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/Nattothemoon/Pegkits-releases/releases/download/v1.2/Pegkits-1.2.dmg"
-        sparkle:edSignature="grCgVMg/Wzy7DX4DsWYFeDh4IcGunGUyCPwDioVVzO3fLeLNKW589/M4y+Dsl0qftpJloiQD4+C+fUl+v7GACw=="
-        length="9607781"
-        type="application/octet-stream" />
-    </item>
   </channel>
 </rss>
