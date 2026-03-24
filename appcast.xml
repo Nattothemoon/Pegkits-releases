@@ -40,5 +40,17 @@
         length="9217991"
         type="application/octet-stream" />
     </item>
+    <item>
+      <title>Version 1.6</title>
+      <pubDate>Tue, 24 Mar 2026 10:12:35 +0700</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Nattothemoon/Pegkits-releases/releases/download/v1.6/Pegkits-1.6.dmg"
+        sparkle:edSignature="vDbTrQyQzQctD9LpE1iV/LqIAzMySr0Um/2w6e2VxckBtLsbeVTpWL7z3vDTEANh6hpFtyXhFOfdzPWGOXfgAA=="
+        length="9217952"
+        type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
