@@ -76,5 +76,17 @@
         length="9259702"
         type="application/octet-stream" />
     </item>
+    <item>
+      <title>Version 1.9</title>
+      <pubDate>Sat, 18 Jul 2026 15:40:00 +0700</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Nattothemoon/Pegkits-releases/releases/download/v1.9/Pegkits-1.9.dmg"
+        sparkle:edSignature="9BSUGt58qQuMboZMsEo9uzIn9hxeA1kmSdKIZEseKanmmOAFbV3gz57rF9FNhXVJplXg7UT81UIVZagi5FiWCQ=="
+        length="9279525"
+        type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
